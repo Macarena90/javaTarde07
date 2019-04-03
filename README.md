@@ -17,5 +17,7 @@ Crear una coleccion ArrayList<Usuario> usuarios.
 En el formulario, tener varios botones:
 
 Nuevo: solo completa el campo id. 
+
 Grabar: Agregar al ArrayList<Usuario> el nuevo usuario.
+
 Atraz: todavia nada.
