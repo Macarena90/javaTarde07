@@ -21,3 +21,5 @@ Nuevo: solo completa el campo id.
 Grabar: Agregar al ArrayList<Usuario> el nuevo usuario.
 
 Atraz: todavia nada.
+
+Ver: mostrar por consola todos los usuarios agregados.
